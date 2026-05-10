@@ -32,8 +32,5 @@
     "vinext": "^0.0.41",
     "vite": "^8.0.8"
   },
-  "type": "module",
-  "pnpm": {
-    "onlyBuiltDependencies": ["sharp", "unrs-resolver"]
-  }
+  "type": "module"
 }
